@@ -22,9 +22,8 @@
 ### Certifications
 
 <p>
- <img src="https://github.com/AkshayHanchate/AkshayHanchate/blob/main/Microsoft_Store-Logo.wine.svg" alt="Microsoft Logo" width="50" align="left">
+ <img src="https://github.com/AkshayHanchate/AkshayHanchate/blob/main/Microsoft.svg" alt="microsoft Logo" width="50" align="left">
   <strong>Microsoft Certified: Azure Data Engineer Associate</strong><br>
-  Microsoft
 </p>
 
 
