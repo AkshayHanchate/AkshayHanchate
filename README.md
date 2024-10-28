@@ -4,9 +4,6 @@
 
 
 
-
-
-
 - 🔭 I’m currently working on https://github.com/AkshayHanchate/Behavioural_risk_factor_system
 - 🌱 I’m currently learning **GCP, Flink, and LLM driven Data Engineering**
 - 💬 Ask me about **SQL, Python, Data Modelling and Distributed Computing**
@@ -17,13 +14,13 @@
 
 
 
-- Connect with me:
+### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/akshay-hanchate/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/akshay_hanchate/)
 
 
 
-- ### Languages and Tools:
+### Languages and Tools:
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![SAS](https://img.shields.io/badge/-SAS-005386?logo=sas&logoColor=white)
