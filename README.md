@@ -1,9 +1,10 @@
 # Hi there 👋, I'm Akshay Hanchate.
 ### A Passionate Data Engineer with an MS in Data Analytics and Machine Intelligence.
-
-
-### About Me
 With over four years of professional experience in data engineering, I excel in delivering end-to-end data warehousing solutions, building machine learning models, and creating impactful data visualizations. Beyond my technical work, I'm passionate about giving back—I co-founded Prangan Foundation, an NGO dedicated to fostering equal opportunities and positively impacting over 400,000+ lives.
+
+
+
+
 
 
 - 🔭 I’m currently working on https://github.com/AkshayHanchate/Behavioural_risk_factor_system
