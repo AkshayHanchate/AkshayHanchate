@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on https://github.com/AkshayHanchate/Behavioural_risk_factor_system
 - 🌱 I’m currently learning **GCP, Flink, and LLM driven Data Engineering**
 - 💬 Ask me about **SQL, Python, Data Modelling and Distributed Computing**
-- 👨‍💻 All of my projects are available at **https://github.com/AkshayHanchate**
+- 👨‍💻 All of my projects are available at **https://github.com/AkshayHanchate?tab=repositories**
 - 📫 How to reach me: **akshayhanchate1@gmail.com**
 - ⚡ Fun fact: **People might hate me for this, but... I don't like chocolate.**
 
@@ -22,7 +22,7 @@
 ### Certifications
 
 <p>
- <img src="https://raw.githubusercontent.com/yourusername/yourrepositoryname/main/microsoft-logo.png" alt="Microsoft Logo" width="50" align="left">
+ <img src="https://github.com/yourusername/yourrepositoryname/blob/main/Microsoft_Store-Logo.wine.svg" alt="Microsoft Logo" width="50" align="left">
   <strong>Microsoft Certified: Azure Data Engineer Associate</strong><br>
   Microsoft
 </p>
