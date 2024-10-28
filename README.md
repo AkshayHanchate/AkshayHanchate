@@ -1,7 +1,6 @@
 # Hi there 👋, I'm Akshay Hanchate.
 ## A Passionate Data Engineer with an MS in Data Analytics and Machine Intelligence.
 
-<!--
 
 - 🔭 I’m currently working on https://github.com/AkshayHanchate/Behavioural_risk_factor_system
 - 🌱 I’m currently learning **GCP, Flink, and LLM driven Data Engineering**
@@ -13,7 +12,6 @@
 
 ![MasterHead](<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/IPxtpkyoyNYqeXvnfh" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/adultswim-adult-swim-toonami-ninja-kamui-IPxtpkyoyNYqeXvnfh">via GIPHY</a></p>)
 
--->
 
 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/akshay-hanchate/)
@@ -51,8 +49,6 @@ Connect with me:
 ![Scrapy](https://img.shields.io/badge/-Scrapy-48A247?logo=scrapy&logoColor=white)
 
 
-Github Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
 
 
 
