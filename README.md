@@ -22,7 +22,7 @@
 ### Certifications
 
 <p>
-  <img src="file:///Users/akshayhanchate/Downloads/Microsoft_Store-Logo.wine.svg" alt="Microsoft Logo" width="50" align="left">
+  <img src="[file:///Users/akshayhanchate/Downloads/Microsoft_Store-Logo.wine.svg](https://images.app.goo.gl/4shZTLqnAer5Y8QP9)" alt="Microsoft Logo" width="50" align="left">
   <strong>Microsoft Certified: Azure Data Engineer Associate</strong><br>
   Microsoft
 </p>
