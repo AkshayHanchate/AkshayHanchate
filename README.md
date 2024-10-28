@@ -10,7 +10,7 @@
 - ⚡ Fun fact: **People might hate me for this, but... I don't like chocolate.**
 
 
-![MasterHead](https://images.app.goo.gl/fUmYTaKA2avFwvrd7)
+![MasterHead](https://images.app.goo.gl/7G5dkg4hiUVFrLGp9)
 
 
 Connect with me:
