@@ -19,6 +19,15 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/akshay_hanchate/)
 
 
+### Certifications
+
+<p>
+  <img src="https://github.com/yourusername/yourrepositoryname/blob/main/your-logo-file.png" alt="Microsoft Logo" width="50" align="left">
+  <strong>Microsoft Certified: Azure Data Engineer Associate</strong><br>
+  Microsoft
+</p>
+
+
 
 ### Languages and Tools:
 
