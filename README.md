@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Akshay Hanchate.
 ### A Passionate Data Engineer with an MS in Data Analytics and Machine Intelligence.
-With over four years of professional experience in data engineering, I excel in delivering end-to-end data warehousing solutions, building machine learning models, and creating impactful data visualizations. Beyond my technical work, I'm passionate about giving back—I co-founded Prangan Foundation, an NGO dedicated to fostering equal opportunities and positively impacting over 400,000+ lives.
+- With over four years of professional experience in data engineering, I excel in delivering end-to-end data warehousing solutions, building machine learning models, and creating impactful data visualizations. Beyond my technical work, I'm passionate about giving back—I co-founded Prangan Foundation, an NGO dedicated to fostering equal opportunities and positively impacting over 400,000+ lives.
 
 
 
@@ -17,13 +17,13 @@ With over four years of professional experience in data engineering, I excel in 
 
 
 
-Connect with me:
+- Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/akshay-hanchate/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/akshay_hanchate/)
 
 
 
-### Languages and Tools:
+- ### Languages and Tools:
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![SAS](https://img.shields.io/badge/-SAS-005386?logo=sas&logoColor=white)
