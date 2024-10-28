@@ -10,7 +10,7 @@
 - ⚡ Fun fact: **People might hate me for this, but... I don't like chocolate.**
 
 
-![MasterHead](<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/IPxtpkyoyNYqeXvnfh" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/adultswim-adult-swim-toonami-ninja-kamui-IPxtpkyoyNYqeXvnfh">via GIPHY</a></p>)
+![MasterHead](https://images.app.goo.gl/fUmYTaKA2avFwvrd7)
 
 
 Connect with me:
