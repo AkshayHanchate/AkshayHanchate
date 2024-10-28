@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi there 👋, I'm Akshay Hanchate.
+## A Passionate Data Engineer with an MS in Data Analytics and Machine Intelligence.
 
 <!--
-**AkshayHanchate/AkshayHanchate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on https://github.com/AkshayHanchate/Behavioural_risk_factor_system
+- 🌱 I’m currently learning **GCP, Flink, and LLM driven Data Engineering**
+- 💬 Ask me about **SQL, Python, Data Modelling and Distributed Computing**
+- 👨‍💻 All of my projects are available at **https://github.com/AkshayHanchate**
+- 📫 How to reach me: **akshayhanchate1@gmail.com**
+- ⚡ Fun fact: **People might hate me for this, but... I don't like chocolate.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+![MasterHead](<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/IPxtpkyoyNYqeXvnfh" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/adultswim-adult-swim-toonami-ninja-kamui-IPxtpkyoyNYqeXvnfh">via GIPHY</a></p>)
+
 -->
+
+Connect with me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/akshay-hanchate/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/akshay_hanchate/)
+
+### Languages and Tools:
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![SAS](https://img.shields.io/badge/-SAS-005386?logo=sas&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
+![MS SQL](https://img.shields.io/badge/-MS%20SQL-CC2927?logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white)
+![Databricks](https://img.shields.io/badge/-Databricks-FF3621?logo=databricks&logoColor=white)
+![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?logo=apache-spark&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?logo=azure-devops&logoColor=white)
+![Airflow](https://img.shields.io/badge/-Airflow-017CEE?logo=apache-airflow&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apache-kafka&logoColor=white)
+![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?logo=snowflake&logoColor=white)
+![dbt](https://img.shields.io/badge/-dbt-FF694B?logo=dbt&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Apache Flink](https://img.shields.io/badge/-Apache%20Flink-E6526F?logo=apache-flink&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?logo=scipy&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=black)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
+![SAS Viya](https://img.shields.io/badge/-SAS%20Viya-0081C6?logo=sas&logoColor=white)
+![Qlik](https://img.shields.io/badge/-Qlik-3A4EBB?logo=qlik&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)
+![Scrapy](https://img.shields.io/badge/-Scrapy-48A247?logo=scrapy&logoColor=white)
+
+
+Github Stats
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+
+
+
+
