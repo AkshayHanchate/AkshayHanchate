@@ -23,8 +23,11 @@
 
 <p>
  <img src="https://github.com/AkshayHanchate/AkshayHanchate/blob/main/microsoft.svg" alt="microsoft Logo" width="50" align="left">
-  <strong>Microsoft Certified: Azure Data Engineer Associate</strong><br>
+  <strong>Microsoft Certified: Azure Data Engineer Associate</strong>
 </p>
+
+
+
 
 
 ### Languages and Tools:
