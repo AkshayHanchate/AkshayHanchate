@@ -15,13 +15,13 @@
 
 
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/akshay-hanchate/)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/akshay-hanchate/)
 
 
 
 ### Certifications
 
-<p>
+- <p>
  <img src="https://github.com/AkshayHanchate/AkshayHanchate/blob/main/microsoft.svg" alt="microsoft Logo" width="50" align="left">
   <strong>Microsoft Certified: Azure Data Engineer Associate</strong><br>
   Microsoft
