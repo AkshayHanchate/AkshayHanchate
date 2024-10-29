@@ -57,6 +57,7 @@
 ![dbt](https://img.shields.io/badge/-dbt-FF694B?logo=dbt&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Apache Flink](https://img.shields.io/badge/-Apache%20Flink-E6526F?logo=apache-flink&logoColor=white)
+![Scrapy](https://img.shields.io/badge/-Scrapy-48A247?logo=scrapy&logoColor=white)
 
 
 - Machine Learning and Data Visualization: 
