@@ -33,7 +33,7 @@
 
 ### Languages and Tools:
 
-- Programming and Database: 
+- **Programming and Database:**
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![SAS](https://img.shields.io/badge/-SAS-005386?logo=sas&logoColor=white)
 ![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?logo=apache-spark&logoColor=white)
@@ -45,7 +45,7 @@
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 
-- Cloud and Data Processing:
+- **Cloud and Data Processing:**
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white)
@@ -60,7 +60,7 @@
 ![Scrapy](https://img.shields.io/badge/-Scrapy-48A247?logo=scrapy&logoColor=white)
 
 
-- Machine Learning and Data Visualization: 
+- **Machine Learning and Data Visualization:** 
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikit-learn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?logo=scipy&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
