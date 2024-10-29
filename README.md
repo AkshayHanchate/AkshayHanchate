@@ -33,19 +33,23 @@
 
 ### Languages and Tools:
 
+Programming and Database: 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![SAS](https://img.shields.io/badge/-SAS-005386?logo=sas&logoColor=white)
-![Data Modeling](https://img.shields.io/badge/-Data%20Modeling-1E90FF)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white)
-![Databricks](https://img.shields.io/badge/-Databricks-FF3621?logo=databricks&logoColor=white)
 ![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?logo=apache-spark&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
+![Data Modeling](https://img.shields.io/badge/-Data%20Modeling-1E90FF)
+![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?logo=apache-spark&logoColor=white)
 ![MS SQL](https://img.shields.io/badge/-MS%20SQL-CC2927?logo=microsoft-sql-server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+
+Cloud and Data Processing:
+![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white)
+![Databricks](https://img.shields.io/badge/-Databricks-FF3621?logo=databricks&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?logo=azure-devops&logoColor=white)
 ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?logo=apache-airflow&logoColor=white)
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apache-kafka&logoColor=white)
@@ -53,6 +57,10 @@
 ![dbt](https://img.shields.io/badge/-dbt-FF694B?logo=dbt&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Apache Flink](https://img.shields.io/badge/-Apache%20Flink-E6526F?logo=apache-flink&logoColor=white)
+![Scrapy](https://img.shields.io/badge/-Scrapy-48A247?logo=scrapy&logoColor=white)
+
+
+Machine Learning and Data Visualization: 
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikit-learn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?logo=scipy&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
@@ -61,7 +69,6 @@
 ![SAS Viya](https://img.shields.io/badge/-SAS%20Viya-0081C6?logo=sas&logoColor=white)
 ![Qlik](https://img.shields.io/badge/-Qlik-3A4EBB?logo=qlik&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)
-![Scrapy](https://img.shields.io/badge/-Scrapy-48A247?logo=scrapy&logoColor=white)
 
 
 
