@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on https://github.com/AkshayHanchate/Behavioural_risk_factor_system.
-- 🌱 I’m currently learning ** LLM-driven Data Engineering, and Generative AI.**
+- 🌱 I’m currently learning ** LLM-driven Data Engineering, and Generative AI**
 - 💬 Ask me about **SQL, Python, Data Modelling, and Distributed Computing.**
 - 👨‍💻 All of my projects are available at **https://github.com/AkshayHanchate?tab=repositories**
 - 📫 How to reach me: **akshayhanchate1@gmail.com**
