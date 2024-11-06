@@ -9,7 +9,7 @@
 - 💬 Ask me about **SQL, Python, Data Modelling, and Distributed Computing.**
 - 👨‍💻 All of my projects are available at **https://github.com/AkshayHanchate?tab=repositories**
 - 📫 How to reach me: **akshayhanchate1@gmail.com**
-- ⚡ Fun fact: **People might hate me for this, but... I don't like chocolate.**
+- ⚡ Fun fact: **People might hate me for this, but... I don't like chocolates.**
 
 
 
