@@ -71,8 +71,6 @@
 ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)
 
 
-![Profile Views](https://ga-beacon.appspot.com/G-DHCB9RRNTJ/github.com/AkshayHanchate/AkshayHanchate)
-
 
 
 
