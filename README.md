@@ -70,7 +70,7 @@
 ![Qlik](https://img.shields.io/badge/-Qlik-3A4EBB?logo=qlik&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)
 
-
+![](https://komarev.com/ghpvc/?username=AkshayHanchate)
 
 
 
