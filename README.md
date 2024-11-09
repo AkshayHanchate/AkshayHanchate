@@ -71,6 +71,9 @@
 ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)
 
 
+[![Analytics](https://ga-beacon.appspot.com/G-FMHHH0JQ5L/welcome-page)](https://github.com/AkshayHanchate)
+
+
 
 
 
