@@ -7,7 +7,7 @@
 - 💬 Ask me about **SQL, Python, Data Modelling, and Distributed Computing.**
 - 👨‍💻 All of my projects are available at **https://github.com/AkshayHanchate?tab=repositories**
 - 📫 How to reach me: **akshayhanchate1@gmail.com**
-- [View My Resume](https://drive.google.com/file/d/16k-SZ1Z0Omra4cG3JwTUJUDLhBzCiC_0/view?usp=sharing)
+- [View My Resume](https://drive.google.com/file/d/1qrMCC7CyUKgyYwsDAjmrNx7PNzxHgZVZ/view?usp=sharing)
 
 
 
