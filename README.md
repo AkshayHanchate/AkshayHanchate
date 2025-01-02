@@ -2,7 +2,6 @@
 
 - With five years of professional experience in data engineering and analytics, I excel in delivering end-to-end data warehousing solutions, building machine learning models, and creating impactful data visualizations. Beyond my technical work, I’m passionate about giving back. I co-founded Prangan Foundation, an NGO dedicated to fostering equal opportunities in the education sector.
 
-- 🔭 I’m currently working on https://github.com/AkshayHanchate/Chat-with-MySql-using-GPT4-MistralAI.
 - 🌱 I’m currently learning **LLM-driven Data Engineering, and Generative AI.**
 - 💬 Ask me about **SQL, Python, Data Modelling, and Distributed Computing.**
 - 👨‍💻 All of my projects are available at **https://github.com/AkshayHanchate?tab=repositories**
