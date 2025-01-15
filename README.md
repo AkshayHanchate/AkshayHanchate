@@ -36,7 +36,6 @@
 ![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?logo=apache-spark&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
 ![Data Modeling](https://img.shields.io/badge/-Data%20Modeling-1E90FF)
-![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?logo=apache-spark&logoColor=white)
 ![MS SQL](https://img.shields.io/badge/-MS%20SQL-CC2927?logo=microsoft-sql-server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white)
