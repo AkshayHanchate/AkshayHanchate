@@ -45,7 +45,6 @@
 - **Cloud and Data Processing:**
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white)
 ![Databricks](https://img.shields.io/badge/-Databricks-FF3621?logo=databricks&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?logo=azure-devops&logoColor=white)
 ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?logo=apache-airflow&logoColor=white)
